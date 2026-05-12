@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Minute Left</title>
-        <link>https://chamooo.github.io/MinuteLeft-updates/appcast.xml</link>
-        <description>Most recent updates to Minute Left</description>
-        <language>en</language>
+        <title>MinuteLeft</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 12 May 2026 11:33:38 +0200</pubDate>
+            <link>https://github.com/chamooo/MinuteLeft</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/MinuteLeft_1.0.0.zip" length="5650655" type="application/octet-stream" sparkle:edSignature="KZPMF+yv0Q4M/nKu7qI1Ms/wPbC1JYgODHcAXLbUUb0UaNmR39BNsbZQrwITA+Awt0bwRX1f14NB958FyK/YAg=="/>
+        </item>
     </channel>
 </rss>
