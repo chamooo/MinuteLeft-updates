@@ -3,6 +3,22 @@
     <channel>
         <title>Minute Left</title>
         <item>
+            <title>1.3.8</title>
+            <pubDate>Sat, 04 Jul 2026 16:02:27 +0200</pubDate>
+            <link>https://github.com/chamooo/MinuteLeft</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/MinuteLeft_1.3.8.zip" length="4596422" type="application/octet-stream" sparkle:edSignature="HaMSK5oCDe7VshS9HOP/4f22gogvuTURjd7V0sOT/Cdroeb0bGz3o9IKPGa5MsWOi69390VQPOgZaWTDboMYCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left15-14.delta" sparkle:deltaFrom="14" length="108602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t6ZTBgY8KLivF0vh6KLHtMX/oHQkxfc0OmZWc85kayFNbfbyke8EHJwZiCinINHat0+BCQjfrW05DcLz7SZyCg=="/>
+                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left15-13.delta" sparkle:deltaFrom="13" length="176738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tzIWMN9HPKxWgv1JeXV8WQtT7BXk0Y8RDW196EWqMwBrUNGFJvxOA9CN7FBSmt4eTyishOSfBAQSqDuRrmoNDg=="/>
+                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left15-12.delta" sparkle:deltaFrom="12" length="204618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JDkk0zkO64y3FyPHLsOROH/TZi+UwGssJfKfdoSFX8Cyc21gRws/KBNS+bJzz3RAmcMZ77+iWI46G8fZpn5LDA=="/>
+                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left15-11.delta" sparkle:deltaFrom="11" length="208706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iyBTHB2FP+wMftAXG0MthKO7l1rTzO9eNog6W+dD2QbUteRcp1lthe34gHv2WbUtSkyY87+xPZgUq+haMR+zAA=="/>
+                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left15-10.delta" sparkle:deltaFrom="10" length="258274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2FXCesNK7uP/NetOyxf9d+OnUEirW5zkpuiPapB2IvHQbF5OlTjogXiXIKbBWcOcQ8JJvbxjB8w7gdRF0CKDCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.7</title>
             <pubDate>Fri, 03 Jul 2026 09:45:13 +0200</pubDate>
             <link>https://github.com/chamooo/MinuteLeft</link>
@@ -10,13 +26,6 @@
             <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/MinuteLeft_1.3.7.zip" length="4595845" type="application/octet-stream" sparkle:edSignature="vP21ewGTV93QcVlf5goKJRKufvw7gWUms4wZXPZLnvI3tJ89pFsYDtRdWLwTp15iaoL9SBiYhQgre9Y8DUQLAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left14-13.delta" sparkle:deltaFrom="13" length="169698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L5gyF6l3pXQTdHF7KUPkFwaoh/1fwIKYHox0XxMfLLfaiKSWmJvWwXi8ZGDoGL0ulryAlJyRcbVZtJLBOW4PAA=="/>
-                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left14-12.delta" sparkle:deltaFrom="12" length="201982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="To8/zhd0o/olRN1kg45lc/n5ipKRydi9lxOt3GipMXCH+zV6fOwhjeXmMyGk/j60NY66hvDACpyjnCKZEsUoCQ=="/>
-                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left14-11.delta" sparkle:deltaFrom="11" length="207254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B7r6eL+iBLJoS+k6siGxQvIE28ifKLuwV3NPedhFadW9YZvKfrrTeh+CfPQwlGohZsT5JHsWoW6idJaN2amyDA=="/>
-                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left14-10.delta" sparkle:deltaFrom="10" length="255506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="itoypHfroAnVzuMC0YJDLTZilJwB6vd3vlhsvMsK5TpFP9K7lV9MbM1YTHPYy3bN/OTJ/WOEuVfO7qkjNwD7BA=="/>
-                <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/Minute%20Left14-9.delta" sparkle:deltaFrom="9" length="535250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U7/gpFRj06Gbrvr/3HEaSnWqcN+PKAjBUs6hul/v46zKax6y/0/qjaiVDG6XaaOb3ymiqZf6wMvD+MulTz39Bw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.3.6</title>
@@ -26,15 +35,6 @@
             <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/MinuteLeft_1.3.6.zip" length="4616135" type="application/octet-stream" sparkle:edSignature="13TC3eUvZ+os/SgVLgrvnvXd5cK3KKGQ3jh6wHHXMeLsR2wpqOlBymw+cyJV6Aba7YJSvEOwdvOqVI3c/mFnCw=="/>
-        </item>
-        <item>
-            <title>1.3.5</title>
-            <pubDate>Thu, 02 Jul 2026 23:22:12 +0200</pubDate>
-            <link>https://github.com/chamooo/MinuteLeft</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://chamooo.github.io/MinuteLeft-updates/releases/MinuteLeft_1.3.5.zip" length="4611833" type="application/octet-stream" sparkle:edSignature="X/qDMMrvb58BS0wI6T/rfEbM1I0ZQXwVSdFpPuY2M5n7Mb0yCiW98kO76Zm+43VdXfJBs3OdmE7R8oMwGhePDA=="/>
         </item>
     </channel>
 </rss>
